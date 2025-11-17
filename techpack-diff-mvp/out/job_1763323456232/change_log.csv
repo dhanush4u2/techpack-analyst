@@ -1,0 +1,3804 @@
+change_id,page,section,type,priority,confidence,old,new,bbox,evidence_old,evidence_new
+C001,20,Construction,Text,MED,0.80,"
+Request Action
+Fit and Measurements
+Please maintain measurements for P2.
+We will assess fit with the design changes below.
+Construction / Design
+General
+1. Update sleeves to shell 1
+2. Add webbing and tape to clean finish back neck and hood
+3. we want interior hood facing to be clean finished like the sketch
+4. remove zipper garage on hand pockets
+5. Update hand pockets to reverse coil
+BOM Update
+1. webbing and tape 4 and 5 added
+2. zipper 2 updated
+Sketch Updates
+1. FGV sketch update suggestions made except for hood facing, as we would like to
+clean finish the hood facing as shown in sketch
+Instructions
+1. FGV suggestions done
+Apparel Request
+Merchandise Division:
+Outerwear
+Merchandise Collection:
+Trail
+Product Class: Soft Shell
+Tops
+Designer: crebillon
+Developer: reyu
+LO Developer:
+triveni.hebbar
+Sourcing Manager:
+james.burnett
+Design:
+F5MO21427
+2
+Sample LO:
+India
+Production
+LO:
+India
+L25AM2833
+M
+S - XXL
+Pan-Asian
+Active
+Line Addition
+Style Add
+Page 2 of 3
+Aug 13, 2024 5:38:32 AM PDT","Webbing and Tape 2
+1/4” from edge
+ISO 301
+1” from edge
+ISO 301
+Technical
+Merchandise Division:
+Outerwear
+Merchandise Collection:
+Trail
+Product Class: Soft Shell
+Tops
+Designer: crebillon
+Developer: jbusse
+LO Developer:
+triveni.hebbar
+Sourcing Manager:
+james.burnett
+Design:
+F5MO21427
+2
+Sample LO:
+India
+Production
+LO:
+India
+Style
+Material Style Style
+Description
+Pattern
+Base Size
+Size Scale
+Fit
+SMU Type
+L25AM2833
+M
+S - XXL
+Pan-Asian
+Active
+Line Addition
+Style Add
+Page 2 of 4
+Sep 26, 2024 9:17:02 PM PDT",,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C001_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C001_new.png
+C002,3,Construction,Text,MED,0.80,"Number
+Description
+UM
+Fiber Content
+Fiber Content
+Back
+Material
+Coating
+Material
+Finish
+(Face)
+Material
+Laminate
+Trim Specific
+Supplier Art
+No
+Country of
+Origin
+Standard
+Cost
+(FOB)
+Purchase
+Cost
+(CIF)
+Producti
+on Lead
+Time
+with
+Greige
+Producti
+on Lead
+Time
+without
+Greige
+HTT Insprite (Xiamen) Imp & Exp Co. Ltd.
+Fabric Width: 60.0 in  Width Type: cuttable  Primary Weight: 75.0 g/m2
+004476
+China
+0.67
+0.0
+35
+60
+110670
+Recycled Interlining Non-
+Woven Sew-In Medium
+Weight SAME AS VIRGIN
+VERSION 006492
+yd
+70% Recycled
+Polyester, 30%
+Viscose
+unassigned
+unassigned
+unassigned
+unassigned
+Freudenberg-Hong Kong
+Fabric Width: 39.0 in  Width Type: cuttable  Primary Weight: 50.0 g/m2
+AO 103
+Taiwan
+0.4
+0.0
+14
+30
+MaxBond
+Fabric Width: 48.0 in  Width Type: cuttable  Primary Weight: 50.0 g/m2
+Recycled
+006492
+Vietnam
+0.37
+0.0
+15
+30
+012755
+Adhesive Bemis 3206 Clear
+60in 6mil
+yd
+100% Polyurethane unassigned
+unassigned
+unassigned
+unassigned
+Bemis
+Fabric Width: 60.0 in  Width Type: cuttable  Primary Weight: 180.0 g/m2
+32060231
+unassigned
+8.135
+0.0
+5
+91
+Trim
+011001
+3mm (fits single dc size
+3mm) Small Hard TPU
+Cordlock Stopper 1 clr
+CANNOT BE DONE IN
+CLEAR COLOR White
+color may have a yellowing
+issue
+ea
+100% TPU
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Nifco Taiwan Corporation
+CLS3
+Taiwan
+0.0432
+0.0
+30
+35
+Unitex International Button Accessories Ltd
+011001
+China
+0.0333
+0.0322
+32
+32
+Vietnam Trien Trieu (VTT)
+486811
+Vietnam
+0.03
+0.0
+30
+30
+FGV - Shahi Exports Pvt. (SEP) Ltd.
+011001
+India
+0.027
+0.0
+20
+30
+POONG HAN PLASTIC (BD) LIMITED
+PHCOL-007
+Bangladesh
+0.0112
+0.0
+30
+30
+380083
+2.5mm OD Stretch
+Drawcord Polyester/ 1 color
+yd
+55% Latex, 45%
+Polyester
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Outside Diameter: 2.5
+Gong Myung Korea
+380083
+South Korea 0.058
+0.0
+30
+30
+Elasticos Universales (Eltitex)
+R-16/3
+Guatemala
+0.15
+0.0
+0
+30
+Naturub Group of Companies
+BBA-011577 Bangladesh
+0.0538
+0.0
+15
+25
+Paiho Global
+TRU0001
+Taiwan
+0.058
+0.0
+30
+60
+059588
+SAME AS 059592  6mm ID
+Metal Enamel Eyelet 1 clr.
+Use 026906 for metal
+finish.
+set
+100% Brass
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Sungbo
+SB-59588
+South Korea 0.023
+0.0
+30
+30
+Button International Company
+026906
+Taiwan
+0.013
+0.0
+30
+40
+Vietnam Trien Trieu (VTT)
+24886
+Vietnam
+0.032
+0.0
+15
+15
+Unitex International Button Accessories Ltd
+059592
+China
+0.01544
+0.0
+30
+40
+Part Specifications with Approved Suppliers
+Line Slot:
+State: Acknowledged
+Season: F25
+Merchandise Division:
+Merchandise Collection:
+Product Class:
+Designer:
+Developer: reyu
+LO Developer: triveni.hebbar
+Sourcing Manager:
+Fit Engineer:
+Design:
+Sample LO:
+Production LO:
+Vendor Master
+Production LO:
+Vendor Master
+Sourcing LO:
+F5MO214272-
+F25-001
+N/A
+Page 2 of 7
+Aug 13, 2024 5:38:32 AM PDT","Number
+Description
+UM
+Fiber Content
+Fiber Content
+Back
+Material
+Coating
+Material
+Finish
+(Face)
+Material
+Laminate
+Trim Specific
+Supplier Art
+No
+Country of
+Origin
+Standard
+Cost
+(FOB)
+Purchase
+Cost
+(CIF)
+Producti
+on Lead
+Time
+with
+Greige
+Producti
+on Lead
+Time
+without
+Greige
+MaxBond
+Fabric Width: 48.0 in  Width Type: cuttable  Primary Weight: 50.0 g/m2
+Recycled
+006492
+Vietnam
+0.37
+0.0
+15
+30
+012755
+Adhesive Bemis 3206 Clear
+60in 6mil
+yd
+100% Polyurethane unassigned
+unassigned
+unassigned
+unassigned
+Bemis
+Fabric Width: 60.0 in  Width Type: cuttable  Primary Weight: 180.0 g/m2
+32060231
+unassigned
+8.135
+0.0
+5
+91
+Trim
+059197
+USE ONLY FOR ALL
+ADULTsizes AND YOUTH
+S-XL 42mm x 8mm
+Lightweight Stripe woven
+ECO Hanger Loop DOWN
+2 clr other colors w Director
+approval only
+ea
+100% Recycled
+Polyester
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Dong Young
+DY-59197
+South Korea 0.024
+0.0
+25
+25
+Avery Dennison Global
+059197
+China
+0.024
+0.0
+30
+30
+105920
+2mm Ticked D/c with
+textured rubber tip (long)
+CALL out Base d/c, Tick
+D/c, Rubber
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+UTS-Universal Trim Supply Co.
+105920
+Taiwan
+0.167
+0.0
+30
+40
+105919
+2mm Ticked D/c with
+textured rubber tip (short)
+Call out Base color d/c,
+Tick color d/c, Rubber- For
+F25 Send to Celio via CDS
+ea
+80% TPU, 20%
+Polyester
+unassigned
+unassigned
+MaterialFinis
+hNone
+unassigned
+Size UM: mm
+UTS-Universal Trim Supply Co.
+105919
+Taiwan
+0.16
+0.0
+30
+40
+025693
+76mm (A) Columbia/Bug
+Logo Screenprint 1 clr
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+FGV Sourced
+025693
+unassigned
+0.0
+0.0
+0
+0
+FGV - Sung Jin (SJI) EQ
+76mm (A)
+Columbia/Bu
+g Logo
+Screenprint
+1 clr
+unassigned
+0.137
+0.0
+0
+0
+033748
+60.9mm (size A) Omni-
+Heat Screenprint
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+060282
+Coats Epic Tex 30 thread
+met
+er
+100% Polyester
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: tex
+Coats Global Thread
+EV51100
+unassigned
+0.0007
+0.0
+0
+0
+008214
+Coats ASTRA Spun
+Polyester Tex 27 40/2
+met
+er
+100% Polyester
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: tex
+Part Specifications with Approved Suppliers
+Line Slot:
+State: Initiated
+Season: F25
+Merchandise Division:
+Merchandise Collection:
+Product Class:
+Designer:
+Developer: jbusse
+LO Developer: triveni.hebbar
+Sourcing Manager:
+Fit Engineer:
+Design:
+Sample LO:
+Production LO:
+Vendor Master
+Production LO:
+Vendor Master
+Sourcing LO:
+Style
+Material Style
+Style
+Description
+Pattern
+Base Size
+Size Scale
+Fit
+SMU Type
+F5MO214272-
+F25-001
+N/A
+Page 2 of 5
+Sep 26, 2024 9:17:02 PM PDT",,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C002_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C002_new.png
+C003,5,Construction,Text,MED,0.80,"Number
+Description
+UM
+Fiber Content
+Fiber Content
+Back
+Material
+Coating
+Material
+Finish
+(Face)
+Material
+Laminate
+Trim Specific
+Supplier Art
+No
+Country of
+Origin
+Standard
+Cost
+(FOB)
+Purchase
+Cost
+(CIF)
+Producti
+on Lead
+Time
+with
+Greige
+Producti
+on Lead
+Time
+without
+Greige
+ZHEJIANG WEIXING IMP AND EXP COMPANY LTD(SAB Zippers)
+SABETCLB0
+7
+Bangladesh
+0.0142
+0.0
+20
+20
+059197
+USE ONLY FOR ALL
+ADULTsizes AND YOUTH
+S-XL 42mm x 8mm
+Lightweight Stripe woven
+ECO Hanger Loop DOWN
+2 clr other colors w Director
+approval only
+ea
+100% Recycled
+Polyester
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Dong Young
+DY-59197
+South Korea 0.024
+0.0
+25
+25
+Avery Dennison Global
+059197
+China
+0.024
+0.0
+30
+30
+105920
+2mm Ticked D/c with
+textured rubber tip (long)
+CALL out Base d/c, Tick
+D/c, Rubber
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+UTS-Universal Trim Supply Co.
+105920
+Taiwan
+0.167
+0.0
+30
+40
+105919
+2mm Ticked D/c with
+textured rubber tip (short)
+Call out Base color d/c,
+Tick color d/c, Rubber
+ea
+80% TPU, 20%
+Polyester
+unassigned
+unassigned
+MaterialFinis
+hNone
+unassigned
+Size UM: mm
+UTS-Universal Trim Supply Co.
+105919
+Taiwan
+0.16
+0.0
+30
+40
+025693
+76mm (A) Columbia/Bug
+Logo Screenprint 1 clr
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+FGV Sourced
+025693
+unassigned
+0.0
+0.0
+0
+0
+FGV - Sung Jin (SJI) EQ
+76mm (A)
+Columbia/Bu
+g Logo
+Screenprint
+1 clr
+unassigned
+0.0
+0.0
+0
+0
+033748
+60.9mm (size A) Omni-
+Heat Screenprint
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+060282
+Coats Epic Tex 30 thread
+met
+er
+100% Polyester
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: tex
+Coats Global Thread
+060282
+unassigned
+0.0007
+0.0
+0
+0
+008214
+Coats ASTRA Spun
+Polyester Tex 27 40/2
+met
+er
+100% Polyester
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: tex
+Coats Global Thread
+8754120
+unassigned
+0.0003
+0.0
+0
+0
+031940
+4.5mm ID Toggle
+ea
+95% POM, 5%
+Stainless Steel
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Nifco Taiwan Corporation
+FCL7AA
+Taiwan
+0.067
+0.1
+30
+35
+Part Specifications with Approved Suppliers
+Line Slot:
+State: Acknowledged
+Season: F25
+Merchandise Division:
+Merchandise Collection:
+Product Class:
+Designer:
+Developer: reyu
+LO Developer: triveni.hebbar
+Sourcing Manager:
+Fit Engineer:
+Design:
+Sample LO:
+Production LO:
+Vendor Master
+Production LO:
+Vendor Master
+Sourcing LO:
+F5MO214272-
+F25-001
+N/A
+Page 3 of 7
+Aug 13, 2024 5:38:32 AM PDT","Number
+Description
+UM
+Fiber Content
+Fiber Content
+Back
+Material
+Coating
+Material
+Finish
+(Face)
+Material
+Laminate
+Trim Specific
+Supplier Art
+No
+Country of
+Origin
+Standard
+Cost
+(FOB)
+Purchase
+Cost
+(CIF)
+Producti
+on Lead
+Time
+with
+Greige
+Producti
+on Lead
+Time
+without
+Greige
+128176
+CIFC-56 DA8BLH EF P16
+KENSIN N-ANTI
+REVERSE T-B-0 Coil
+ReverseClosedEnd
+AutoLock DA8BLH Pl
+MatteEnamel Sldr/Pl
+NoStops
+ea
+61% Zinc, 21%
+Recycled
+Polyester, 17%
+Polyester, 1%
+Metal
+unassigned
+unassigned
+Enameled
+Finish -
+Matte
+unassigned
+Size UM: ea
+Length: 4.0
+YKK Global
+CIFC-56
+DA8BLH EF
+P16 KENSIN
+N-ANTI
+REVERSE T
+-B-0
+Taiwan
+0.1827
+0.0
+35
+45
+Ideal Fastener Global
+IENSFC56
+NSF56B(M)
+IP41 NO
+STOPS
+China
+0.165
+0.0
+21
+28
+126857
+CIFC-56 DA8LH EF T-B-0
+Clsd AutoLk Large Hole
+MatteEnamel Sldr/Pl
+NoStps
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: ea
+Length: 4.0
+Ideal Fastener Global
+IE-NUWIC56
+N56B IP41
+unassigned
+0.1294
+0.0
+21
+28
+YKK Global
+CIFC-56
+DA8LH EFJ
+T-B-0 Clsd
+AutoLk
+Large Hole
+MatteEname
+l Sldr/Pl
+NoStps
+unassigned
+0.1267
+0.0
+35
+40
+060475
+40mm Interchange Woven
+ECO Size Label w/ Gem
+CSC to be used with
+059197 Hanger Loop
+ea
+100% Recycled
+Polyester
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Avery Dennison Global
+060475
+China
+0.08021
+0.0
+30
+30
+Dong Young
+DY-60475
+South Korea 0.076
+0.0
+30
+30
+067533
+33mm Patent Care Content
+like 006564 ECO Booklet
+Fold label COO / wht/blk
+and Blk/White
+ea
+100% Recycled
+Polyester
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Dong Young
+DY-067533
+unassigned
+0.038
+0.0
+0
+30
+Avery Dennison Global
+067533
+China
+0.01881
+0.0
+30
+30
+Part Specifications with Approved Suppliers
+Line Slot:
+State: Initiated
+Season: F25
+Merchandise Division:
+Merchandise Collection:
+Product Class:
+Designer:
+Developer: jbusse
+LO Developer: triveni.hebbar
+Sourcing Manager:
+Fit Engineer:
+Design:
+Sample LO:
+Production LO:
+Vendor Master
+Production LO:
+Vendor Master
+Sourcing LO:
+Style
+Material Style
+Style
+Description
+Pattern
+Base Size
+Size Scale
+Fit
+SMU Type
+F5MO214272-
+F25-001
+N/A
+Page 4 of 5
+Sep 26, 2024 9:17:02 PM PDT",,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C003_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C003_new.png
+C004,4,Construction,Text,MED,0.80,"Number
+Description
+UM
+Fiber Content
+Fiber Content
+Back
+Material
+Coating
+Material
+Finish
+(Face)
+Material
+Laminate
+Trim Specific
+Supplier Art
+No
+Country of
+Origin
+Standard
+Cost
+(FOB)
+Purchase
+Cost
+(CIF)
+Producti
+on Lead
+Time
+with
+Greige
+Producti
+on Lead
+Time
+without
+Greige
+FGV - Shahi Exports Pvt. (SEP) Ltd.
+031940
+unassigned
+0.066
+0.0
+30
+40
+002614
+Plastic Washer
+(Polyurethane) (use on all
+Snap Stud  and Post or
+Eyelets if needed)  Clear
+CAN BE USED FOR
+YOUTH
+ea
+100% Polyurethane unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Unitex International Button Accessories Ltd
+002614
+China
+0.00559
+0.0
+28
+40
+FGV Sourced
+002614
+unassigned
+0.0
+0.0
+0
+0
+Button International Company
+002614
+Taiwan
+0.0013
+0.0
+35
+40
+360183
+3/4 in W Foldover (3/8 to
+show) Woven Stretch
+Binding 1 clr FOR CAN
+STYLES PRODUCED IN
+VN use 110808
+yd
+86% Nylon, 14%
+Elastane
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Width: 0.75
+Sun Hod Enterprise Co Ltd (formerly Sang Hsin)
+360183
+Taiwan
+0.14
+0.168
+30
+30
+Gong Myung Korea
+360183
+South Korea 0.136
+0.163
+30
+30
+Paiho Global
+360183
+Taiwan
+0.16
+0.0
+30
+60
+Naturub Group of Companies
+BLD-002550
+Bangladesh
+0.1328
+0.0
+12
+28
+013891
+1/4 inch Grosgrain Tape 1
+clr (ECO version is 083473)
+yd
+100% Polyester
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: yd
+Gong Myung Korea
+GM-013891
+South Korea 0.046
+0.0
+30
+30
+Cosmos Knitting International Co. Ltd.
+013891
+Vietnam
+0.055
+0.0
+30
+35
+Paiho Global
+013891
+Taiwan
+0.044
+0.0
+30
+60
+Naturub Group of Companies
+BND-009427 Bangladesh
+0.0422
+0.0
+15
+25
+360027
+3/8 in Grosgrain Tape Poly
+1 clr
+yd
+100% Polyester
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Width: 9.5
+Gong Myung Korea
+360027
+South Korea 0.068
+0.0
+30
+30
+Paiho Global
+360027
+Taiwan
+0.068
+0.0
+30
+60
+Naturub Group of Companies
+BND017368
+Bangladesh
+0.0616
+0.0
+30
+45
+FGV - Shahi Exports Pvt. (SEP) Ltd.
+360027
+India
+0.059
+0.0
+18
+25
+360228
+3/8 in W Stretch flat Woven
+Binding 1 clr
+yd
+86% Nylon, 14%
+Elastane
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Width: 10.0
+Sun Hod Enterprise Co Ltd (formerly Sang Hsin)
+360228
+Taiwan
+0.095
+0.105
+30
+30
+Elasticos Universales (Eltitex)
+T-142/10.5
+Guatemala
+0.15
+0.0
+0
+30
+Paiho Global
+360228
+Taiwan
+0.111
+0.0
+30
+60
+Chun Wo Ho Co. Ltd
+360228
+China
+0.1675
+0.0
+30
+35
+Part Specifications with Approved Suppliers
+Line Slot:
+State: Acknowledged
+Season: F25
+Merchandise Division:
+Merchandise Collection:
+Product Class:
+Designer:
+Developer: reyu
+LO Developer: triveni.hebbar
+Sourcing Manager:
+Fit Engineer:
+Design:
+Sample LO:
+Production LO:
+Vendor Master
+Production LO:
+Vendor Master
+Sourcing LO:
+F5MO214272-
+F25-001
+N/A
+Page 4 of 7
+Aug 13, 2024 5:38:32 AM PDT","Number
+Description
+UM
+Fiber Content
+Fiber Content
+Back
+Material
+Coating
+Material
+Finish
+(Face)
+Material
+Laminate
+Trim Specific
+Supplier Art
+No
+Country of
+Origin
+Standard
+Cost
+(FOB)
+Purchase
+Cost
+(CIF)
+Producti
+on Lead
+Time
+with
+Greige
+Producti
+on Lead
+Time
+without
+Greige
+Coats Global Thread
+EV65120
+unassigned
+0.0003
+0.0
+0
+0
+360183
+3/4 in W Foldover (3/8 to
+show) Woven Stretch
+Binding 1 clr FOR CAN
+STYLES PRODUCED IN
+VN use 110808
+yd
+86% Nylon, 14%
+Elastane
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Width: 0.75
+Sun Hod Enterprise Co Ltd (formerly Sang Hsin)
+360183
+Taiwan
+0.14
+0.168
+30
+30
+Gong Myung Korea
+360183
+South Korea 0.136
+0.163
+30
+30
+Paiho Global
+360183
+Taiwan
+0.16
+0.0
+30
+60
+Naturub Group of Companies
+BLD-002550
+Bangladesh
+0.1328
+0.0
+30
+30
+360228
+3/8 in W Stretch flat Woven
+Binding 1 clr
+yd
+86% Nylon, 14%
+Elastane
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Width: 10.0
+Sun Hod Enterprise Co Ltd (formerly Sang Hsin)
+360228
+Taiwan
+0.095
+0.105
+30
+30
+Elasticos Universales (Eltitex)
+T-142/10.5
+Guatemala
+0.15
+0.0
+0
+30
+Paiho Global
+360228
+Taiwan
+0.111
+0.0
+30
+60
+Chun Wo Ho Co. Ltd
+360228
+China
+0.1675
+0.0
+30
+35
+Naturub Group of Companies
+BLD-008050
+Bangladesh
+0.1067
+0.0
+30
+30
+126864
+CIFML-56 DA8LH
+EF/DAG8 EF P-TOP
+OpenEnd2Way Left-in
+AutoLk
+LargeHole/LargeHole
+MatteEnamel Sldr/Pl
+PlasticTopStop
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: ea
+Length: 16.0
+Ideal Fastener Global
+IE-NUML56
+N56B/N56B
+IP41
+unassigned
+0.3413
+0.0
+21
+28
+YKK Global
+CIFML-56
+DA8LH
+EFJ/DAG8
+EFJ P-TOP
+OpenEnd2W
+ay Left-in
+AutoLk
+LargeHole/L
+argeHole
+MatteEname
+l Sldr/Pl
+unassigned
+0.3376
+0.0
+35
+40
+Part Specifications with Approved Suppliers
+Line Slot:
+State: Initiated
+Season: F25
+Merchandise Division:
+Merchandise Collection:
+Product Class:
+Designer:
+Developer: jbusse
+LO Developer: triveni.hebbar
+Sourcing Manager:
+Fit Engineer:
+Design:
+Sample LO:
+Production LO:
+Vendor Master
+Production LO:
+Vendor Master
+Sourcing LO:
+Style
+Material Style
+Style
+Description
+Pattern
+Base Size
+Size Scale
+Fit
+SMU Type
+F5MO214272-
+F25-001
+N/A
+Page 3 of 5
+Sep 26, 2024 9:17:02 PM PDT",,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C004_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C004_new.png
+C005,6,Construction,Text,MED,0.80,"Number
+Description
+UM
+Fiber Content
+Fiber Content
+Back
+Material
+Coating
+Material
+Finish
+(Face)
+Material
+Laminate
+Trim Specific
+Supplier Art
+No
+Country of
+Origin
+Standard
+Cost
+(FOB)
+Purchase
+Cost
+(CIF)
+Producti
+on Lead
+Time
+with
+Greige
+Producti
+on Lead
+Time
+without
+Greige
+Naturub Group of Companies
+BLD-008050
+Bangladesh
+0.1067
+0.0
+14
+28
+126832
+CNFOL-56 DA8BLH EF P-
+TOP REVERSE Open L-in
+AutoLock  LargeHole Pull
+MatteEnml Sldr/Pl
+PlasticTopStop RevCoil
+ea
+unassigned
+unassigned
+unassigned
+Enameled
+Finish -
+Matte,
+Enameled
+Finish -
+Shiny
+unassigned
+Size UM: ea
+Length: 8.0
+Ideal Fastener Global
+IENSFUOL5
+6-
+NSF56B(M)-
+IP41
+unassigned
+0.2661
+0.0
+21
+28
+YKK Global
+CNFOL-56
+DA8BLH
+EFJ P-TOP
+REVERSE
+Open L-in
+AutoLock
+LargeHole
+Pull
+MatteEnml
+Sldr/Pl
+PlasticTopSt
+o
+unassigned
+0.2606
+0.0
+35
+50
+128176
+CIFC-56 DA8BLH EF P16
+KENSIN N-ANTI
+REVERSE T-B-0 Coil
+ReverseClosedEnd
+AutoLock DA8BLH Pl
+MatteEnamel Sldr/Pl
+NoStops
+ea
+61% Zinc, 21%
+Recycled
+Polyester, 17%
+Polyester, 1%
+Metal
+unassigned
+unassigned
+Enameled
+Finish -
+Matte
+unassigned
+Size UM: ea
+Length: 4.0
+YKK Global
+CIFC-56
+DA8BLH EF
+P16 KENSIN
+N-ANTI
+REVERSE T
+-B-0
+Taiwan
+0.1827
+0.0
+35
+45
+Ideal Fastener Global
+IENSFC56
+NSF56B(M)
+IP41 NO
+STOPS
+China
+0.165
+0.0
+21
+28
+126857
+CIFC-56 DA8LH EF T-B-0
+Clsd AutoLk Large Hole
+MatteEnamel Sldr/Pl
+NoStps
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: ea
+Length: 4.0
+Ideal Fastener Global
+IE-NUWIC56
+N56B IP41
+unassigned
+0.1294
+0.0
+21
+28
+Part Specifications with Approved Suppliers
+Line Slot:
+State: Acknowledged
+Season: F25
+Merchandise Division:
+Merchandise Collection:
+Product Class:
+Designer:
+Developer: reyu
+LO Developer: triveni.hebbar
+Sourcing Manager:
+Fit Engineer:
+Design:
+Sample LO:
+Production LO:
+Vendor Master
+Production LO:
+Vendor Master
+Sourcing LO:
+F5MO214272-
+F25-001
+N/A
+Page 5 of 7
+Aug 13, 2024 5:38:32 AM PDT","This is confidential and proprietary information of Columbia Sportswear Company. You agree that you will not disclose this information to any third party or use it for any purpose other than on
+behalf of Columbia.  You have no right to use Columbia's name or any of its trademarks, trade names, copyrights, patents, designs or other intellectual property except as set forth in writing by
+Columbia.
+Number
+Description
+UM
+Fiber Content
+Fiber Content
+Back
+Material
+Coating
+Material
+Finish
+(Face)
+Material
+Laminate
+Trim Specific
+Supplier Art
+No
+Country of
+Origin
+Standard
+Cost
+(FOB)
+Purchase
+Cost
+(CIF)
+Producti
+on Lead
+Time
+with
+Greige
+Producti
+on Lead
+Time
+without
+Greige
+Bao Shen (Apparel)
+067533
+Vietnam
+0.019
+0.0
+7
+21
+Nexgen Packaging Global
+067533
+unassigned
+0.0221
+0.0
+21
+28
+121612
+MSRP/UPC with RFID
+Specs for MSRP. Please
+refer to VAS specs for any
+exceptions. MSRP required
+on all product shipping to
+the US.
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Bao Shen (Apparel)
+n/a
+unassigned
+0.049
+0.0
+7
+0
+Avery Dennison Global
+n/a
+unassigned
+0.04875
+0.0
+14
+0
+126966
+Active Fit Swing Tag
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: in
+Hang Sang Press Co. Ltd
+n/a
+unassigned
+0.023
+0.0
+0
+0
+Finotex El Salvador
+FILE - 4885
+El Salvador
+0.016
+0.0
+21
+28
+112204
+Columbia Omni-Heat
+Infinity Hangtag
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: cm
+Hang Sang Press Co. Ltd
+n/a
+unassigned
+0.0273
+0.0
+0
+0
+980001
+Polybag See Standard
+CCS 4200 for specifications
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Contractor
+980001
+unassigned
+0.0
+0.0
+0
+0
+980010
+UPC Bag Sticker Generic
+(MHW/Columbia) See
+CCS4400/ 4401 and
+MHW4402 for Mt Hardwear
+for instructions
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Hang Sang Press Co. Ltd
+980010
+Hong Kong
+0.016
+0.0
+14
+14
+Avery Dennison Global
+980010
+China
+0.01089
+0.0
+30
+30
+FGV Sourced
+980010
+unassigned
+0.0
+0.0
+0
+0
+Bao Shen (Apparel)
+980010
+unassigned
+0.011
+0.0
+7
+21
+Nexgen Packaging Global
+980010
+unassigned
+0.011
+0.0
+21
+28
+064194
+Outer Carton for costing
+purpose only
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Contractor
+064194
+unassigned
+0.0
+0.0
+0
+0
+Part Specifications with Approved Suppliers
+Line Slot:
+State: Initiated
+Season: F25
+Merchandise Division:
+Merchandise Collection:
+Product Class:
+Designer:
+Developer: jbusse
+LO Developer: triveni.hebbar
+Sourcing Manager:
+Fit Engineer:
+Design:
+Sample LO:
+Production LO:
+Vendor Master
+Production LO:
+Vendor Master
+Sourcing LO:
+Style
+Material Style
+Style
+Description
+Pattern
+Base Size
+Size Scale
+Fit
+SMU Type
+F5MO214272-
+F25-001
+N/A
+Page 5 of 5
+Sep 26, 2024 9:17:02 PM PDT",,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C005_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C005_new.png
+C006,9,Construction,Text,MED,0.80,"Number
+Description
+UM
+Fiber Content
+Fiber Content
+Back
+Material
+Coating
+Material
+Finish
+(Face)
+Material
+Laminate
+Trim Specific
+Supplier Art
+No
+Country of
+Origin
+Standard
+Cost
+(FOB)
+Purchase
+Cost
+(CIF)
+Producti
+on Lead
+Time
+with
+Greige
+Producti
+on Lead
+Time
+without
+Greige
+YKK Global
+CIFC-56
+DA8LH EFJ
+T-B-0 Clsd
+AutoLk
+Large Hole
+MatteEname
+l Sldr/Pl
+NoStps
+unassigned
+0.1267
+0.0
+35
+40
+060475
+40mm Interchange Woven
+ECO Size Label w/ Gem
+CSC to be used with
+059197 Hanger Loop
+ea
+100% Recycled
+Polyester
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Avery Dennison Global
+060475
+China
+0.08021
+0.0
+30
+30
+Dong Young
+DY-60475
+South Korea 0.076
+0.0
+30
+30
+067533
+33mm Patent Care Content
+like 006564 ECO Booklet
+Fold label COO / wht/blk
+and Blk/White
+ea
+100% Recycled
+Polyester
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Dong Young
+DY-067533
+unassigned
+0.038
+0.0
+0
+30
+Avery Dennison Global
+067533
+China
+0.01881
+0.0
+30
+30
+Bao Shen (Apparel)
+067533
+Vietnam
+0.019
+0.0
+7
+21
+Nexgen Packaging Global
+067533
+unassigned
+0.0221
+0.0
+21
+28
+121612
+MSRP/UPC with RFID
+Specs for MSRP. Please
+refer to VAS specs for any
+exceptions. MSRP required
+on all product shipping to
+the US.
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Bao Shen (Apparel)
+n/a
+unassigned
+0.049
+0.0
+7
+0
+Avery Dennison Global
+n/a
+unassigned
+0.04875
+0.0
+14
+0
+126966
+Active Fit Swing Tag
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: in
+Hang Sang Press Co. Ltd
+n/a
+unassigned
+0.023
+0.0
+0
+0
+112204
+Columbia Omni-Heat
+Infinity Hangtag
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: cm
+Hang Sang Press Co. Ltd
+n/a
+unassigned
+0.0273
+0.0
+0
+0
+980001
+Polybag See Standard
+CCS 4200 for specifications
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Contractor
+980001
+unassigned
+0.0
+0.0
+0
+0
+Part Specifications with Approved Suppliers
+Line Slot:
+State: Acknowledged
+Season: F25
+Merchandise Division:
+Merchandise Collection:
+Product Class:
+Designer:
+Developer: reyu
+LO Developer: triveni.hebbar
+Sourcing Manager:
+Fit Engineer:
+Design:
+Sample LO:
+Production LO:
+Vendor Master
+Production LO:
+Vendor Master
+Sourcing LO:
+F5MO214272-
+F25-001
+N/A
+Page 6 of 7
+Aug 13, 2024 5:38:32 AM PDT","Component
+Details
+Placement
+Usage
+Width
+Marker
+Width
+010-Black
+224-Camel
+Brown
+429-Everblue
+SAP Material Code
+2142721010
+2142721224
+2142721429
+Thread 1
+060282 Coats Epic Tex 30 thread
+For top and Bobbin
+FGV suggests to update to Tex 30 epic to
+avoid breakage.
+250
+meter
+0.0
+0
+DTM
+DTM
+DTM
+Thread 2
+008214 Coats ASTRA Spun Polyester Tex 27
+40/2
+08/30/2021: added this back per FGV
+650
+meter
+0.0
+0
+DTM
+DTM
+DTM
+Webbing and
+Tape 1
+360183 3/4 in W Foldover (3/8 to show)
+Woven Stretch Binding 1 clr FOR CAN
+STYLES PRODUCED IN VN use 110808
+Width: 0.75
+sleeve cuff binding
+0.556 yd
+0.0
+0
+Black
+Camel Brown
+Everblue
+Webbing and
+Tape 2
+360228 3/8 in W Stretch flat Woven Binding 1
+clr
+Width: 10.0
+back neck
+0.72 yd
+0.0
+0
+Black
+Camel Brown
+Everblue
+Webbing and
+Tape 3
+360228 3/8 in W Stretch flat Woven Binding 1
+clr
+Width: 10.0
+hood
+1.2 yd
+0.0
+0
+Black
+Camel Brown
+Everblue
+Zipper 1
+126864 CIFML-56 DA8LH EF/DAG8 EF P-
+TOP OpenEnd2Way Left-in AutoLk
+LargeHole/LargeHole MatteEnamel Sldr/Pl
+PlasticTopStop
+Length: 16.0
+CF
+1 ea
+0.0
+0
+Black
+Camel Brown
+Everblue
+Zipper 2
+128176 	CIFC-56 DA8BLH EF P16 KENSIN N-
+ANTI REVERSE T-B-0 Coil
+ReverseClosedEnd AutoLock DA8BLH Pl
+MatteEnamel Sldr/Pl NoStops
+Length: 4.0
+hand
+2 ea
+0.0
+0
+Black
+Camel Brown
+Everblue
+Zipper 3
+126857 CIFC-56 DA8LH EF T-B-0 Clsd
+AutoLk Large Hole MatteEnamel Sldr/Pl
+NoStps
+Length: 4.0
+Chest
+1 ea
+0.0
+0
+Black
+Camel Brown
+Everblue
+Label 1
+060475 40mm Interchange Woven ECO Size
+Label w/ Gem CSC to be used with 059197
+Hanger Loop
+1 ea
+0.0
+0
+White,
+Columbia
+Grey,
+Compass
+Blue
+White,
+Columbia
+Grey,
+Compass
+Blue
+White,
+Columbia
+Grey,
+Compass
+Blue
+Label 2
+067533 33mm Patent Care Content like
+006564 ECO Booklet Fold label COO / wht/blk
+and Blk/White
+1 ea
+0.0
+0
+White, Black
+White, Black
+White, Black
+Color BOM
+Merchandise Division: Outerwear
+Merchandise Collection: Trail
+Product Class: Soft Shell Tops
+Designer: crebillon
+Developer: jbusse
+LO Developer: triveni.hebbar
+Sourcing Manager: james.burnett
+Design:
+F5MO214272
+Sample LO:
+India
+Production LO:
+India
+Style
+Material Style
+Style Description
+Pattern
+Base Size
+Size Scale
+Fit
+SMU Type
+L25AM2833
+M
+S - XXL
+Pan-Asian Active
+Line Addition Style
+Add
+Page 3 of 4
+Sep 26, 2024 9:17:02 PM PDT",,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C006_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C006_new.png
+C007,16,Construction,Text,MED,0.80,"This is confidential and proprietary information of Columbia Sportswear Company. You agree that you will not disclose this information to any third party or use it for any purpose other than on
+behalf of Columbia.  You have no right to use Columbia's name or any of its trademarks, trade names, copyrights, patents, designs or other intellectual property except as set forth in writing by
+Columbia.
+Number
+Description
+UM
+Fiber Content
+Fiber Content
+Back
+Material
+Coating
+Material
+Finish
+(Face)
+Material
+Laminate
+Trim Specific
+Supplier Art
+No
+Country of
+Origin
+Standard
+Cost
+(FOB)
+Purchase
+Cost
+(CIF)
+Producti
+on Lead
+Time
+with
+Greige
+Producti
+on Lead
+Time
+without
+Greige
+980010
+UPC Bag Sticker Generic
+(MHW/Columbia) See
+CCS4400/ 4401 and
+MHW4402 for Mt Hardwear
+for instructions
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Hang Sang Press Co. Ltd
+980010
+Hong Kong
+0.016
+0.0
+14
+14
+Avery Dennison Global
+980010
+China
+0.01089
+0.0
+30
+30
+FGV Sourced
+980010
+unassigned
+0.0
+0.0
+0
+0
+Bao Shen (Apparel)
+980010
+unassigned
+0.011
+0.0
+7
+21
+Nexgen Packaging Global
+980010
+unassigned
+0.011
+0.0
+21
+28
+064194
+Outer Carton for costing
+purpose only
+ea
+unassigned
+unassigned
+unassigned
+unassigned
+unassigned
+Size UM: mm
+Contractor
+064194
+unassigned
+0.0
+0.0
+0
+0
+Part Specifications with Approved Suppliers
+Line Slot:
+State: Acknowledged
+Season: F25
+Merchandise Division:
+Merchandise Collection:
+Product Class:
+Designer:
+Developer: reyu
+LO Developer: triveni.hebbar
+Sourcing Manager:
+Fit Engineer:
+Design:
+Sample LO:
+Production LO:
+Vendor Master
+Production LO:
+Vendor Master
+Sourcing LO:
+F5MO214272-
+F25-001
+N/A
+Page 7 of 7
+Aug 13, 2024 5:38:32 AM PDT","L25AM2833 - 214272
+Component
+Quantity Long Description
+Abbreviation
+Code
+ 
+This is confidential and proprietary information of Columbia Sportswear Company. You agree that you will not disclose this information to any
+third party or use it for any purpose other than on behalf of Columbia.  You have no right to use Columbia's name or any of its trademarks, trade
+names, copyrights, patents, designs or other intellectual property except as set forth in writing by Columbia.
+Pattern Piece Detail
+Merchandise Division:
+Outerwear
+Merchandise Collection:
+Trail
+Product Class: Soft Shell
+Tops
+Designer: crebillon
+Developer: jbusse
+LO Developer:
+triveni.hebbar
+Sourcing Manager:
+james.burnett
+Design:
+F5MO21427
+2
+Sample LO:
+India
+Production
+LO:
+India
+Style
+Material Style Style
+Description
+Pattern
+Base Size
+Size Scale
+Fit
+SMU Type
+L25AM2833
+M
+S - XXL
+Pan-Asian
+Active
+Line Addition
+Style Add
+Page 1 of 1
+Sep 26, 2024 9:17:02 PM PDT",,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C007_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C007_new.png
+C008,8,Construction,Text,MED,0.80,"Component
+Details
+Placement
+Usage
+Width
+Marker
+Width
+010-Black
+224-Camel
+Brown
+429-Everblue
+SAP Material Code
+2142721010
+2142721224
+2142721429
+Eyelets-
+Grommets 1
+059588 SAME AS 059592  6mm ID Metal
+Enamel Eyelet 1 clr. Use 026906 for metal
+finish.
+hem - 2
+2 set
+0.0
+0
+Black
+Camel Brown
+Everblue
+Label Logo 1
+059197 USE ONLY FOR ALL ADULTsizes
+AND YOUTH S-XL 42mm x 8mm Lightweight
+Stripe woven ECO Hanger Loop DOWN 2 clr
+other colors w Director approval only
+1 ea
+0.0
+0
+Columbia
+Grey, Grill
+Columbia
+Grey, Grill
+Columbia
+Grey, Grill
+Phemo 1
+105920 2mm Ticked D/c with textured rubber
+tip (long) CALL out Base d/c, Tick D/c, Rubber
+CF zip's phemo
+1 ea
+0.0
+0
+Black, Grill,
+Translucent
+Quarry
+Camel Brown,
+Canoe, Black
+Everblue,
+Crushed Blue,
+Black
+Phemo 2
+105919 2mm Ticked D/c with textured rubber
+tip (short) Call out Base color d/c, Tick color
+d/c, Rubber
+hand pkts' phemo
+2 ea
+0.0
+0
+Black, Grill,
+Translucent
+Quarry
+Camel Brown,
+Canoe, Black
+Everblue,
+Crushed Blue,
+Black
+Screen Print 1
+025693 76mm (A) Columbia/Bug Logo
+Screenprint 1 clr
+1 ea
+0.0
+0
+Columbia
+Grey
+Black
+Columbia
+Grey
+Screen Print 2
+033748 60.9mm (size A) Omni-Heat
+Screenprint
+1 ea
+0.0
+0
+Columbia
+Grey
+Black
+Columbia
+Grey
+Thread 1
+060282 Coats Epic Tex 30 thread
+For top and Bobbin
+FGV suggests to update to Tex 30 epic to
+avoid breakage.
+250
+meter
+0.0
+0
+DTM
+DTM
+DTM
+Thread 2
+008214 Coats ASTRA Spun Polyester Tex 27
+40/2
+08/30/2021: added this back per FGV
+650
+meter
+0.0
+0
+DTM
+DTM
+DTM
+Toggle 1
+031940 4.5mm ID Toggle
+hem - 2
+2 ea
+0.0
+0
+Black
+Camel Brown
+Everblue
+Washer 1
+002614 Plastic Washer (Polyurethane) (use
+on all  Snap Stud  and Post or  Eyelets if
+needed)  Clear CAN BE USED FOR YOUTH
+2 ea
+0.0
+0
+Clear
+Clear
+Clear
+Webbing and
+Tape 1
+360183 3/4 in W Foldover (3/8 to show)
+Woven Stretch Binding 1 clr FOR CAN
+STYLES PRODUCED IN VN use 110808
+Width: 0.75
+sleeve cuff binding
+0.556 yd
+0.0
+0
+Black
+Camel Brown
+Everblue
+Webbing and
+Tape 2
+013891 1/4 inch Grosgrain Tape 1 clr (ECO
+version is 083473)
+toggle tether to side seam
+0.125 yd
+0.0
+0
+Black
+Camel Brown
+Everblue
+Webbing and
+Tape 3
+360027 3/8 in Grosgrain Tape Poly 1 clr
+Width: 9.5
+toggle tether to hem facing
+0.14 yd
+0.0
+0
+Black
+Camel Brown
+Everblue
+Color BOM
+Merchandise Division: Outerwear
+Merchandise Collection: Trail
+Product Class: Soft Shell Tops
+Designer: crebillon
+Developer: reyu
+LO Developer: triveni.hebbar
+Sourcing Manager: james.burnett
+Design:
+F5MO214272
+Sample LO:
+India
+Production LO:
+India
+Style
+Material Style
+Style Description
+Pattern
+Base Size
+Size Scale
+Fit
+SMU Type
+L25AM2833
+M
+S - XXL
+Pan-Asian Active
+Line Addition Style
+Add
+Page 3 of 5
+Aug 13, 2024 5:38:32 AM PDT","Component
+Details
+Placement
+Usage
+Width
+Marker
+Width
+010-Black
+224-Camel
+Brown
+429-Everblue
+SAP Material Code
+2142721010
+2142721224
+2142721429
+Binding 1
+072367 Windbreaker Dyed Only
+Plain Weave
+100% Polyester
+167 X 129
+50D/72F X 50D/72F
+Cire Back - Double
+MaterialCoatingNone
+MaterialLaminateNone
+70.0 g/m2
+Piece Dye/Jet
+NA
+0.08 yd
+56.0
+56
+Black
+Camel Brown
+Everblue
+Interfacing 1
+110670 Recycled Interlining Non-Woven Sew-
+In Medium Weight SAME AS VIRGIN
+VERSION 006492
+Interlining
+70% Recycled Polyester, 30% Viscose
+50.0 g/m2
+0.22 yd
+39.0
+39
+White
+White
+White
+Interfacing 2
+012755 Adhesive Bemis 3206 Clear 60in 6mil
+Adhesives
+100% Polyurethane
+180.0 g/m2
+Greige
+NA
+bonded chest pocket flap
+0.02 yd
+60.0
+60
+Clear
+Clear
+Clear
+Label Logo 1
+059197 USE ONLY FOR ALL ADULTsizes
+AND YOUTH S-XL 42mm x 8mm Lightweight
+Stripe woven ECO Hanger Loop DOWN 2 clr
+other colors w Director approval only
+1 ea
+0.0
+0
+Columbia
+Grey, Grill
+Columbia
+Grey, Grill
+Columbia
+Grey, Grill
+Phemo 1
+105920 2mm Ticked D/c with textured rubber
+tip (long) CALL out Base d/c, Tick D/c, Rubber
+CF zip's phemo
+1 ea
+0.0
+0
+Black, Grill,
+Translucent
+Quarry
+Camel Brown,
+Canoe, Black
+Everblue,
+Crushed Blue,
+Black
+Phemo 2
+105919 2mm Ticked D/c with textured rubber
+tip (short) Call out Base color d/c, Tick color
+d/c, Rubber- For F25 Send to Celio via CDS
+all pkts' phemo
+3 ea
+0.0
+0
+Black, Grill,
+Translucent
+Quarry
+Camel Brown,
+Canoe, Black
+Everblue,
+Crushed Blue,
+Black
+Screen Print 1
+025693 76mm (A) Columbia/Bug Logo
+Screenprint 1 clr
+1 ea
+0.0
+0
+Columbia
+Grey
+Black
+Columbia
+Grey
+Screen Print 2
+033748 60.9mm (size A) Omni-Heat
+Screenprint
+1 ea
+0.0
+0
+Columbia
+Grey
+Black
+Columbia
+Grey
+Color BOM
+Merchandise Division: Outerwear
+Merchandise Collection: Trail
+Product Class: Soft Shell Tops
+Designer: crebillon
+Developer: jbusse
+LO Developer: triveni.hebbar
+Sourcing Manager: james.burnett
+Design:
+F5MO214272
+Sample LO:
+India
+Production LO:
+India
+Style
+Material Style
+Style Description
+Pattern
+Base Size
+Size Scale
+Fit
+SMU Type
+L25AM2833
+M
+S - XXL
+Pan-Asian Active
+Line Addition Style
+Add
+Page 2 of 4
+Sep 26, 2024 9:17:02 PM PDT",,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C008_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C008_new.png
+C009,21,Construction,Text,MED,0.80,"Component
+Details
+Placement
+Usage
+Width
+Marker
+Width
+010-Black
+224-Camel
+Brown
+429-Everblue
+SAP Material Code
+2142721010
+2142721224
+2142721429
+Webbing and
+Tape 4
+360228 3/8 in W Stretch flat Woven Binding 1
+clr
+Width: 10.0
+back neck
+0 yd
+0.0
+0
+Black
+Camel Brown
+Everblue
+Webbing and
+Tape 5
+360228 3/8 in W Stretch flat Woven Binding 1
+clr
+Width: 10.0
+hood
+0 yd
+0.0
+0
+Black
+Camel Brown
+Everblue
+Zipper 1
+126832 CNFOL-56 DA8BLH EF P-TOP
+REVERSE Open L-in AutoLock  LargeHole
+Pull MatteEnml Sldr/Pl PlasticTopStop
+RevCoil
+Length: 8.0
+CF
+1 ea
+0.0
+0
+Black
+Camel Brown
+Everblue
+Zipper 2
+128176 	CIFC-56 DA8BLH EF P16 KENSIN N-
+ANTI REVERSE T-B-0 Coil
+ReverseClosedEnd AutoLock DA8BLH Pl
+MatteEnamel Sldr/Pl NoStops
+Length: 4.0
+hand
+2 ea
+0.0
+0
+Black
+Camel Brown
+Everblue
+Zipper 3
+126857 CIFC-56 DA8LH EF T-B-0 Clsd
+AutoLk Large Hole MatteEnamel Sldr/Pl
+NoStps
+Length: 4.0
+Chest
+1 ea
+0.0
+0
+Black
+Camel Brown
+Everblue
+Label 1
+060475 40mm Interchange Woven ECO Size
+Label w/ Gem CSC to be used with 059197
+Hanger Loop
+1 ea
+0.0
+0
+White,
+Columbia
+Grey,
+Compass
+Blue
+White,
+Columbia
+Grey,
+Compass
+Blue
+White,
+Columbia
+Grey,
+Compass
+Blue
+Label 2
+067533 33mm Patent Care Content like
+006564 ECO Booklet Fold label COO / wht/blk
+and Blk/White
+1 ea
+0.0
+0
+White, Black
+White, Black
+White, Black
+Hangtag
+Package Part
+121612 MSRP/UPC with RFID Specs for
+MSRP. Please refer to VAS specs for any
+exceptions. MSRP required on all product
+shipping to the US.
+1 ea
+0.0
+0
+Artwork
+Artwork
+Artwork
+Hangtag
+Package Part
+126966 Active Fit Swing Tag
+1 ea
+0.0
+0
+Artwork
+Artwork
+Artwork
+Hangtag
+Package Part
+112204 Columbia Omni-Heat Infinity Hangtag
+1 ea
+0.0
+0
+Artwork
+Artwork
+Artwork
+Packaging 1
+980001 Polybag See Standard CCS 4200 for
+specifications
+1 ea
+0.0
+0
+Stock
+Stock
+Stock
+Color BOM
+Merchandise Division: Outerwear
+Merchandise Collection: Trail
+Product Class: Soft Shell Tops
+Designer: crebillon
+Developer: reyu
+LO Developer: triveni.hebbar
+Sourcing Manager: james.burnett
+Design:
+F5MO214272
+Sample LO:
+India
+Production LO:
+India
+Style
+Material Style
+Style Description
+Pattern
+Base Size
+Size Scale
+Fit
+SMU Type
+L25AM2833
+M
+S - XXL
+Pan-Asian Active
+Line Addition Style
+Add
+Page 4 of 5
+Aug 13, 2024 5:38:32 AM PDT","Last Updated:  01.01.23 XX
+Label 2
+Label 1
+Label Logo 1
+Edgestitch
+ISO 301
+ISO 301
+1/4” from edge
+S1 for inner storm flap’s
+outer layer
+1B
+1B
+1B
+1B
+1B
+1B
+1B
+1B
+1B
+1B
+1B
+1B
+1B
+1
+B
+1
+B
+L2B
+L2B
+L2B
+Technical
+Merchandise Division:
+Outerwear
+Merchandise Collection:
+Trail
+Product Class: Soft Shell
+Tops
+Designer: crebillon
+Developer: jbusse
+LO Developer:
+triveni.hebbar
+Sourcing Manager:
+james.burnett
+Design:
+F5MO21427
+2
+Sample LO:
+India
+Production
+LO:
+India
+Style
+Material Style Style
+Description
+Pattern
+Base Size
+Size Scale
+Fit
+SMU Type
+L25AM2833
+M
+S - XXL
+Pan-Asian
+Active
+Line Addition
+Style Add
+Page 3 of 4
+Sep 26, 2024 9:17:02 PM PDT",,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C009_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C009_new.png
+C010,13,Construction,Text,MED,0.80,"Component
+Details
+Placement
+Usage
+Width
+Marker
+Width
+SAP Material Code
+Shell 1
+122449 PFC Free version of 116189 Better
+Level Technical softshell with texture- 4 way
+with OHI
+Composite
+100% Polyester
+100% Polyester
+44
+Durable Water Repellent (80/10HL) C0
+PFOA/PFOS Free
+MaterialCoatingNone
+3 Layer Waterproof Hydrophobic Microporous
+Polyurethane
+274.0 g/m2
+Piece Dye/Jet
+NA
+1.15 yd
+56.0
+0
+Shell 2
+122460 PFC Free Version of 117236 Better
+Level Technical Softshell with Texture- Jersey
+Backer
+Composite
+100% Polyester
+100% Polyester
+44
+Durable Water Repellent (80/10HL) C0
+PFOA/PFOS Free
+MaterialCoatingNone
+3 Layer Waterproof Hydrophobic Microporous
+Polyurethane
+260.0 g/m2
+Piece Dye/Jet
+NA
+0.75 yd
+57.0
+0
+Lining 1
+072367 Windbreaker Dyed Only
+Plain Weave
+100% Polyester
+167 X 129
+50D/72F X 50D/72F
+Cire Back - Double
+MaterialCoatingNone
+MaterialLaminateNone
+70.0 g/m2
+Piece Dye/Jet
+NA
+0.17 yd
+56.0
+0
+Lining 2
+004476 FOR POCKETING AND YOUTH
+STYLES ONLY Chamois Touch Tricot
+Tricot
+100% Polyester
+28
+Anti-pill (face), Brushed (Tech Face)
+80.0 g/m2
+Piece Dye/Jet
+NA
+0.21 yd
+60.0
+0
+Colorless BOM
+Merchandise Division:
+Outerwear
+Merchandise Collection:
+Trail
+Product Class: Soft Shell
+Tops
+Designer: crebillon
+Developer: reyu
+LO Developer:
+triveni.hebbar
+Sourcing Manager:
+james.burnett
+Design:
+F5MO21427
+2
+Sample LO:
+India
+Production
+LO:
+India
+L25AM2833
+M
+S - XXL
+Pan-Asian
+Active
+Line Addition
+Style Add
+Page 1 of 4
+Aug 13, 2024 5:38:32 AM PDT","This is confidential and proprietary information of Columbia Sportswear Company. You agree that you will not disclose this information to any
+third party or use it for any purpose other than on behalf of Columbia.  You have no right to use Columbia's name or any of its trademarks, trade
+names, copyrights, patents, designs or other intellectual property except as set forth in writing by Columbia.
+Component
+Details
+Placement
+Usage
+Width
+Marker
+Width
+SAP Material Code
+Hangtag
+Package Part
+121612 MSRP/UPC with RFID Specs for
+MSRP. Please refer to VAS specs for any
+exceptions. MSRP required on all product
+shipping to the US.
+1 ea
+0.0
+0
+Hangtag
+Package Part
+126966 Active Fit Swing Tag
+1 ea
+0.0
+0
+Hangtag
+Package Part
+112204 Columbia Omni-Heat Infinity Hangtag
+1 ea
+0.0
+0
+Packaging 1
+980001 Polybag See Standard CCS 4200 for
+specifications
+1 ea
+0.0
+0
+Packaging 2
+980010 UPC Bag Sticker Generic
+(MHW/Columbia) See CCS4400/ 4401 and
+MHW4402 for Mt Hardwear for instructions
+1 ea
+0.0
+0
+Packaging 3
+064194 Outer Carton for costing purpose only
+1 ea
+0.0
+0
+Colorless BOM
+Merchandise Division:
+Outerwear
+Merchandise Collection:
+Trail
+Product Class: Soft Shell
+Tops
+Designer: crebillon
+Developer: jbusse
+LO Developer:
+triveni.hebbar
+Sourcing Manager:
+james.burnett
+Design:
+F5MO21427
+2
+Sample LO:
+India
+Production
+LO:
+India
+Style
+Material Style Style
+Description
+Pattern
+Base Size
+Size Scale
+Fit
+SMU Type
+L25AM2833
+M
+S - XXL
+Pan-Asian
+Active
+Line Addition
+Style Add
+Page 3 of 3
+Sep 26, 2024 9:17:02 PM PDT",,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C010_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C010_new.png
+C011,12,Construction,Text,MED,0.80,"Component
+Details
+Placement
+Usage
+Width
+Marker
+Width
+SAP Material Code
+Binding 1
+072367 Windbreaker Dyed Only
+Plain Weave
+100% Polyester
+167 X 129
+50D/72F X 50D/72F
+Cire Back - Double
+MaterialCoatingNone
+MaterialLaminateNone
+70.0 g/m2
+Piece Dye/Jet
+NA
+0.12 yd
+56.0
+0
+Interfacing 1
+110670 Recycled Interlining Non-Woven Sew
+-In Medium Weight SAME AS VIRGIN
+VERSION 006492
+Interlining
+70% Recycled Polyester, 30% Viscose
+50.0 g/m2
+0.23 yd
+39.0
+0
+Interfacing 2
+012755 Adhesive Bemis 3206 Clear 60in 6mil
+Adhesives
+100% Polyurethane
+180.0 g/m2
+Greige
+NA
+bonded chest pocket flap
+1 yd
+60.0
+0
+Bead 1
+011001 3mm (fits single dc size 3mm) Small
+Hard TPU Cordlock Stopper 1 clr  CANNOT
+BE DONE IN CLEAR COLOR White color
+may have a yellowing issue
+hem - 2
+2 ea
+0.0
+0
+Drawcord-
+Cording-
+Laces 1
+380083 2.5mm OD Stretch Drawcord
+Polyester/ 1 color
+Outside Diameter: 2.5
+hem
+0.168 yd
+0.0
+0
+Eyelets-
+Grommets 1
+059588 SAME AS 059592  6mm ID Metal
+Enamel Eyelet 1 clr. Use 026906 for metal
+finish.
+hem - 2
+2 set
+0.0
+0
+Label Logo 1
+059197 USE ONLY FOR ALL ADULTsizes
+AND YOUTH S-XL 42mm x 8mm Lightweight
+Stripe woven ECO Hanger Loop DOWN 2 clr
+other colors w Director approval only
+1 ea
+0.0
+0
+Phemo 1
+105920 2mm Ticked D/c with textured rubber
+tip (long) CALL out Base d/c, Tick D/c,
+Rubber
+CF zip's phemo
+1 ea
+0.0
+0
+Phemo 2
+105919 2mm Ticked D/c with textured rubber
+tip (short) Call out Base color d/c, Tick color
+d/c, Rubber
+hand pkts' phemo
+2 ea
+0.0
+0
+Screen Print
+1
+025693 76mm (A) Columbia/Bug Logo
+Screenprint 1 clr
+1 ea
+0.0
+0
+Screen Print
+2
+033748 60.9mm (size A) Omni-Heat
+Screenprint
+1 ea
+0.0
+0
+Thread 1
+060282 Coats Epic Tex 30 thread
+For top and Bobbin
+FGV suggests to update to Tex 30 epic to
+avoid breakage.
+250
+meter
+0.0
+0
+Thread 2
+008214 Coats ASTRA Spun Polyester Tex 27
+40/2
+08/30/2021: added this back per FGV
+650
+meter
+0.0
+0
+Toggle 1
+031940 4.5mm ID Toggle
+hem - 2
+2 ea
+0.0
+0
+Colorless BOM
+Merchandise Division:
+Outerwear
+Merchandise Collection:
+Trail
+Product Class: Soft Shell
+Tops
+Designer: crebillon
+Developer: reyu
+LO Developer:
+triveni.hebbar
+Sourcing Manager:
+james.burnett
+Design:
+F5MO21427
+2
+Sample LO:
+India
+Production
+LO:
+India
+L25AM2833
+M
+S - XXL
+Pan-Asian
+Active
+Line Addition
+Style Add
+Page 2 of 4
+Aug 13, 2024 5:38:32 AM PDT","Component
+Details
+Placement
+Usage
+Width
+Marker
+Width
+SAP Material Code
+Label Logo 1
+059197 USE ONLY FOR ALL ADULTsizes
+AND YOUTH S-XL 42mm x 8mm Lightweight
+Stripe woven ECO Hanger Loop DOWN 2 clr
+other colors w Director approval only
+1 ea
+0.0
+0
+Phemo 1
+105920 2mm Ticked D/c with textured rubber
+tip (long) CALL out Base d/c, Tick D/c,
+Rubber
+CF zip's phemo
+1 ea
+0.0
+0
+Phemo 2
+105919 2mm Ticked D/c with textured rubber
+tip (short) Call out Base color d/c, Tick color
+d/c, Rubber- For F25 Send to Celio via CDS
+all pkts' phemo
+3 ea
+0.0
+0
+Screen Print
+1
+025693 76mm (A) Columbia/Bug Logo
+Screenprint 1 clr
+1 ea
+0.0
+0
+Screen Print
+2
+033748 60.9mm (size A) Omni-Heat
+Screenprint
+1 ea
+0.0
+0
+Thread 1
+060282 Coats Epic Tex 30 thread
+For top and Bobbin
+FGV suggests to update to Tex 30 epic to
+avoid breakage.
+250
+meter
+0.0
+0
+Thread 2
+008214 Coats ASTRA Spun Polyester Tex 27
+40/2
+08/30/2021: added this back per FGV
+650
+meter
+0.0
+0
+Webbing and
+Tape 1
+360183 3/4 in W Foldover (3/8 to show)
+Woven Stretch Binding 1 clr FOR CAN
+STYLES PRODUCED IN VN use 110808
+Width: 0.75
+sleeve cuff binding
+0.556 yd
+0.0
+0
+Webbing and
+Tape 2
+360228 3/8 in W Stretch flat Woven Binding 1
+clr
+Width: 10.0
+back neck
+0.72 yd
+0.0
+0
+Webbing and
+Tape 3
+360228 3/8 in W Stretch flat Woven Binding 1
+clr
+Width: 10.0
+hood
+1.2 yd
+0.0
+0
+Zipper 1
+126864 CIFML-56 DA8LH EF/DAG8 EF P-
+TOP OpenEnd2Way Left-in AutoLk
+LargeHole/LargeHole MatteEnamel Sldr/Pl
+PlasticTopStop
+Length: 16.0
+CF
+1 ea
+0.0
+0
+Zipper 2
+128176 	CIFC-56 DA8BLH EF P16 KENSIN N
+-ANTI REVERSE T-B-0 Coil
+ReverseClosedEnd AutoLock DA8BLH Pl
+MatteEnamel Sldr/Pl NoStops
+Length: 4.0
+hand
+2 ea
+0.0
+0
+Zipper 3
+126857 CIFC-56 DA8LH EF T-B-0 Clsd
+AutoLk Large Hole MatteEnamel Sldr/Pl
+NoStps
+Length: 4.0
+Chest
+1 ea
+0.0
+0
+Label 1
+060475 40mm Interchange Woven ECO Size
+Label w/ Gem CSC to be used with 059197
+Hanger Loop
+1 ea
+0.0
+0
+Label 2
+067533 33mm Patent Care Content like
+006564 ECO Booklet Fold label COO /
+wht/blk and Blk/White
+1 ea
+0.0
+0
+Colorless BOM
+Merchandise Division:
+Outerwear
+Merchandise Collection:
+Trail
+Product Class: Soft Shell
+Tops
+Designer: crebillon
+Developer: jbusse
+LO Developer:
+triveni.hebbar
+Sourcing Manager:
+james.burnett
+Design:
+F5MO21427
+2
+Sample LO:
+India
+Production
+LO:
+India
+Style
+Material Style Style
+Description
+Pattern
+Base Size
+Size Scale
+Fit
+SMU Type
+L25AM2833
+M
+S - XXL
+Pan-Asian
+Active
+Line Addition
+Style Add
+Page 2 of 3
+Sep 26, 2024 9:17:02 PM PDT",,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C011_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C011_new.png
+C012,19,Construction,Text,MED,0.80,"Component
+Details
+Placement
+Usage
+Width
+Marker
+Width
+SAP Material Code
+Washer 1
+002614 Plastic Washer (Polyurethane) (use
+on all  Snap Stud  and Post or  Eyelets if
+needed)  Clear CAN BE USED FOR YOUTH
+2 ea
+0.0
+0
+Webbing and
+Tape 1
+360183 3/4 in W Foldover (3/8 to show)
+Woven Stretch Binding 1 clr FOR CAN
+STYLES PRODUCED IN VN use 110808
+Width: 0.75
+sleeve cuff binding
+0.556 yd
+0.0
+0
+Webbing and
+Tape 2
+013891 1/4 inch Grosgrain Tape 1 clr (ECO
+version is 083473)
+toggle tether to side seam
+0.125 yd
+0.0
+0
+Webbing and
+Tape 3
+360027 3/8 in Grosgrain Tape Poly 1 clr
+Width: 9.5
+toggle tether to hem facing
+0.14 yd
+0.0
+0
+Webbing and
+Tape 4
+360228 3/8 in W Stretch flat Woven Binding 1
+clr
+Width: 10.0
+back neck
+0 yd
+0.0
+0
+Webbing and
+Tape 5
+360228 3/8 in W Stretch flat Woven Binding 1
+clr
+Width: 10.0
+hood
+0 yd
+0.0
+0
+Zipper 1
+126832 CNFOL-56 DA8BLH EF P-TOP
+REVERSE Open L-in AutoLock  LargeHole
+Pull MatteEnml Sldr/Pl PlasticTopStop
+RevCoil
+Length: 8.0
+CF
+1 ea
+0.0
+0
+Zipper 2
+128176 	CIFC-56 DA8BLH EF P16 KENSIN N
+-ANTI REVERSE T-B-0 Coil
+ReverseClosedEnd AutoLock DA8BLH Pl
+MatteEnamel Sldr/Pl NoStops
+Length: 4.0
+hand
+2 ea
+0.0
+0
+Zipper 3
+126857 CIFC-56 DA8LH EF T-B-0 Clsd
+AutoLk Large Hole MatteEnamel Sldr/Pl
+NoStps
+Length: 4.0
+Chest
+1 ea
+0.0
+0
+Label 1
+060475 40mm Interchange Woven ECO Size
+Label w/ Gem CSC to be used with 059197
+Hanger Loop
+1 ea
+0.0
+0
+Label 2
+067533 33mm Patent Care Content like
+006564 ECO Booklet Fold label COO /
+wht/blk and Blk/White
+1 ea
+0.0
+0
+Hangtag
+Package Part
+121612 MSRP/UPC with RFID Specs for
+MSRP. Please refer to VAS specs for any
+exceptions. MSRP required on all product
+shipping to the US.
+1 ea
+0.0
+0
+Hangtag
+Package Part
+126966 Active Fit Swing Tag
+1 ea
+0.0
+0
+Hangtag
+Package Part
+112204 Columbia Omni-Heat Infinity Hangtag
+1 ea
+0.0
+0
+Packaging 1
+980001 Polybag See Standard CCS 4200 for
+specifications
+1 ea
+0.0
+0
+Packaging 2
+980010 UPC Bag Sticker Generic
+(MHW/Columbia) See CCS4400/ 4401 and
+MHW4402 for Mt Hardwear for instructions
+1 ea
+0.0
+0
+Packaging 3
+064194 Outer Carton for costing purpose only
+1 ea
+0.0
+0
+Colorless BOM
+Merchandise Division:
+Outerwear
+Merchandise Collection:
+Trail
+Product Class: Soft Shell
+Tops
+Designer: crebillon
+Developer: reyu
+LO Developer:
+triveni.hebbar
+Sourcing Manager:
+james.burnett
+Design:
+F5MO21427
+2
+Sample LO:
+India
+Production
+LO:
+India
+L25AM2833
+M
+S - XXL
+Pan-Asian
+Active
+Line Addition
+Style Add
+Page 3 of 4
+Aug 13, 2024 5:38:32 AM PDT","smb://ushq-nas4/SpecialMakes/2025 FALL/TECH SKETCHES/OUTERWEAR/MENS/JACKETS/214272_NewHoodedSoftshell_China.ai
+Last Updated:  07.24.24 CR
+Webbing and Tape 3
+All Topstitch ISO 401 1/8” from 
+edge unless otherwise noted
+ISO 301 or 401 for binding.
+ISO 301 edgestitch as needed.
+L1: All pocket bag facings 
+L2: All pocket bags,
+brushed side to skin;
+Interfacing 1: where needed
+Washer 1: to reinforce eyelets.
+Zipper 1
+Zipper 2
+ISO 301
+1” from edge
+1/4” from edge
+ISO 301
+ISO 301
+Screen Print 1
+Screen Print 2
+Phemo 1
+Phemo 2
+Webbing and Tape 1
+ISO 401
+Edgestitch
+1/8” from edge
+Zipper 3
+1B
+*All Shell       unless Indicated
+1
+Technical
+Merchandise Division:
+Outerwear
+Merchandise Collection:
+Trail
+Product Class: Soft Shell
+Tops
+Designer: crebillon
+Developer: jbusse
+LO Developer:
+triveni.hebbar
+Sourcing Manager:
+james.burnett
+Design:
+F5MO21427
+2
+Sample LO:
+India
+Production
+LO:
+India
+Style
+Material Style Style
+Description
+Pattern
+Base Size
+Size Scale
+Fit
+SMU Type
+L25AM2833
+M
+S - XXL
+Pan-Asian
+Active
+Line Addition
+Style Add
+Page 1 of 4
+Sep 26, 2024 9:17:02 PM PDT",,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C012_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C012_new.png
+C013,1,Sketch,Visual,HIGH,0.19,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C013_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C013_new.png
+C014,2,Sketch,Visual,HIGH,0.41,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C014_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C014_new.png
+C015,3,Sketch,Visual,HIGH,0.32,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C015_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C015_new.png
+C016,4,Sketch,Visual,HIGH,0.29,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C016_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C016_new.png
+C017,5,Sketch,Visual,HIGH,0.27,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C017_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C017_new.png
+C018,6,Sketch,Visual,HIGH,0.29,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C018_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C018_new.png
+C019,7,Sketch,Visual,HIGH,0.29,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C019_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C019_new.png
+C020,8,Sketch,Visual,HIGH,0.37,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C020_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C020_new.png
+C021,9,Sketch,Visual,HIGH,0.33,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C021_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C021_new.png
+C022,10,Sketch,Visual,HIGH,0.18,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C022_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C022_new.png
+C023,11,Sketch,Visual,HIGH,0.35,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C023_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C023_new.png
+C024,12,Sketch,Visual,HIGH,0.48,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C024_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C024_new.png
+C025,13,Sketch,Visual,HIGH,0.39,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C025_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C025_new.png
+C026,14,Sketch,Visual,HIGH,0.23,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C026_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C026_new.png
+C027,15,Sketch,Visual,HIGH,0.15,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C027_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C027_new.png
+C028,16,Sketch,Visual,HIGH,0.25,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C028_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C028_new.png
+C029,17,Sketch,Visual,HIGH,0.46,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C029_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C029_new.png
+C030,18,Sketch,Visual,HIGH,0.26,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C030_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C030_new.png
+C031,19,Sketch,Visual,HIGH,0.37,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C031_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C031_new.png
+C032,21,Sketch,Visual,HIGH,0.14,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C032_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C032_new.png
+C033,22,Sketch,Visual,HIGH,0.38,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C033_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C033_new.png
+C034,23,Sketch,Visual,HIGH,0.21,Sketch changed,Sketch changed,,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C034_old.png,D:\GIT\techpack-analyst\techpack-diff-mvp\out\job_1763323456232\evidence\C034_new.png
